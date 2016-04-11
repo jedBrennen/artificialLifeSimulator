@@ -1,0 +1,4 @@
+WARNING - 15:11:56: First conversion pass
+ERROR - 15:11:56: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 15:13:25: Convert Artificial Life Simulator
+ERROR - 15:13:25: java.net.MalformedURLException: unknown protocol: pathmap
